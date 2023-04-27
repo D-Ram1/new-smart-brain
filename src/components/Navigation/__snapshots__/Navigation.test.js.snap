@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<nav
+  style={
+    Object {
+      "display": "flex",
+      "justifyContent": "flex-end",
+    }
+  }
+>
+  <p
+    className="f3 link dim black underline pa3 pointer"
+    onClick={[Function]}
+  >
+    Sign In
+  </p>
+  <p
+    className="f3 link dim black underline pa3 pointer"
+    onClick={[Function]}
+  >
+    Register
+  </p>
+</nav>
+`;

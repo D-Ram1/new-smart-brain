@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div>
+  <div
+    className="white f3"
+  >
+    Hi undefined! Your current entry count is...
+  </div>
+  <div
+    className="white f1"
+  />
+</div>
+`;

@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div
+  className="ma4 mt5"
+>
+  <h
+    className="Tilt br2 shadow-2"
+    flipHorizontally={false}
+    flipVertically={false}
+    glareBorderRadius="0"
+    glareColor="#ffffff"
+    glareEnable={false}
+    glareMaxOpacity={0.7}
+    glarePosition="bottom"
+    glareReverse={false}
+    gyroscope={false}
+    options={
+      Object {
+        "max": 55,
+      }
+    }
+    perspective={1000}
+    reset={true}
+    scale={1}
+    style={
+      Object {
+        "height": 150,
+        "width": 150,
+      }
+    }
+    tiltAngleXInitial={0}
+    tiltAngleXManual={null}
+    tiltAngleYInitial={0}
+    tiltAngleYManual={null}
+    tiltEnable={true}
+    tiltMaxAngleX={20}
+    tiltMaxAngleY={20}
+    tiltReverse={false}
+    trackOnWindow={false}
+    transitionEasing="cubic-bezier(.03,.98,.52,.99)"
+    transitionSpeed={400}
+  >
+    <div
+      className="Tilt-inner pa3"
+    >
+      <div
+        style={
+          Object {
+            "backgroundColor": "linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%)",
+            "height": "150px",
+            "width": "150px",
+          }
+        }
+      >
+        <img
+          alt="logo"
+          src="brain.png"
+          style={
+            Object {
+              "paddingRight": "30px",
+              "paddingTop": "30px",
+            }
+          }
+        />
+      </div>
+    </div>
+  </h>
+</div>
+`;
